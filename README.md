@@ -28,7 +28,7 @@ I'm a Data Science undergraduate at Prince Musaid bin Abdulrahman University wit
 
 | Project | Description | Tech |
 |---|---|---|
-| [Diary-like-Website](https://github.com/7xb7ii/Diary-like-Website) | A diary website for writing and saving personal entries | HTML, CSS, JavaScript |
+| [Diary-like-Website](https://github.com/7xb7ii/Diary-like-Website) | A private diary for two, with entries, photos, widgets and five themes. Installable and works offline. | HTML, CSS, JavaScript |
 
 ---
 
