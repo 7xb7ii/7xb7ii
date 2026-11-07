@@ -1,13 +1,13 @@
-# Hi, I'm Tariq 👋
+# Hi, I'm Tariq
 
 **Data Science Student | Frontend Developer**
-📍 Dammam, Saudi Arabia
+Dammam, Saudi Arabia
 
 I'm a Data Science undergraduate at Prince Musaid bin Abdulrahman University with hands-on web development experience. I enjoy building clean, simple websites and I'm growing my skills in Python and data analysis.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@ I'm a Data Science undergraduate at Prince Musaid bin Abdulrahman University wit
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -32,7 +32,7 @@ I'm a Data Science undergraduate at Prince Musaid bin Abdulrahman University wit
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - Learning Python for data analysis
 - Building more frontend projects
@@ -40,8 +40,8 @@ I'm a Data Science undergraduate at Prince Musaid bin Abdulrahman University wit
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: [tariq.mohammed.s.b@gmail.com](mailto:tariq.mohammed.s.b@gmail.com)
 
-🌐 Languages: Arabic (Native) · English (C1)
+Languages: Arabic (Native) · English (C1)
