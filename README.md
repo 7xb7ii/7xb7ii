@@ -1,6 +1,7 @@
 # Hi, I'm Tariq
 
 **Data Science Student | Frontend Developer**
+
 Dammam, Saudi Arabia
 
 I'm a Data Science undergraduate at Prince Musaid bin Abdulrahman University with hands-on web development experience. I enjoy building clean, simple websites and I'm growing my skills in Python and data analysis.
